@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Weather</string>
+    <string name="action_settings">Settings</string>
+    <string name="city_Londra">Londra</string>
+    <string name="city_Cluj">Cluj</string>
+    <string name="city_Paris">Paris</string>
+</resources>
